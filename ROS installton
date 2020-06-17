@@ -1,0 +1,14 @@
+Ros installation on Linux Ubuntu 20.04
+1.first step is to go to ros.org and click on  the latest verstion
+
+
+ 
+
+2. second we follow the each step on the installation and copy each command and copy it on the terminal
+ 
+
+3. copy the each command on the terminal and press enter
+  
+
+4. finally, test the installation of ROS with the command “rosverstion -d”
+ 
